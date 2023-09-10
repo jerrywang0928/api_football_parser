@@ -1,4 +1,8 @@
 websit: https://rapidapi.com/api-sports/api/api-football
+<img width="1153" alt="Screenshot 2023-09-10 at 5 11 37 PM" src="https://github.com/jerrywang0928/api_football_parser/assets/77896133/d69eaab8-f44f-4554-91cc-f3809fb3f559">
+
+PyPI Login: https://pypi.org/account/login/
+UserName: zw2888
 
 [metadata]
 name = apollov2_api_parser
@@ -11,6 +15,7 @@ classifiers =
     Programming Language :: Python :: 3
     License :: OSI Approved :: MIT License
     Operating System :: OS Independent
+
 
 [options]
 package_dir =
